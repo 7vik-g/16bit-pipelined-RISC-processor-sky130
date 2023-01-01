@@ -1,3 +1,6 @@
 # Caravel user project includes	     
 -v $(USER_PROJECT_VERILOG)/gl/user_project_wrapper.v	     
--v $(USER_PROJECT_VERILOG)/gl/user_proj_example.v     
+-v $(USER_PROJECT_VERILOG)/gl/processor.v     
+-v $(USER_PROJECT_VERILOG)/gl/io_interface.v 
+-v $(USER_PROJECT_VERILOG)/gl/sky130_sram_2kbyte_1rw1r_32x512_8.v 
+

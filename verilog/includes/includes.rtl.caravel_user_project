@@ -1,5 +1,6 @@
 # Caravel user project includes
--v $(USER_PROJECT_VERILOG)/rtl/user_project_wrapper.v	     
--v $(USER_PROJECT_VERILOG)/rtl/user_proj_example.v
-
+-v $(USER_PROJECT_VERILOG)/rtl/user_project_wrapper.v
+-v $(USER_PROJECT_VERILOG)/rtl/processor.v
+-v $(USER_PROJECT_VERILOG)/rtl/io_interface.v
+-v $(USER_PROJECT_VERILOG)/rtl/sky130_sram_2kbyte_1rw1r_32x512_8.v
  
